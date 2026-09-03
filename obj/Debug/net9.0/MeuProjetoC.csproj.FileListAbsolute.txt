@@ -1,0 +1,15 @@
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\bin\Debug\net9.0\MeuProjetoC.exe
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\bin\Debug\net9.0\MeuProjetoC.deps.json
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\bin\Debug\net9.0\MeuProjetoC.runtimeconfig.json
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\bin\Debug\net9.0\MeuProjetoC.dll
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\bin\Debug\net9.0\MeuProjetoC.pdb
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\MeuProjetoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\MeuProjetoC.AssemblyInfoInputs.cache
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\MeuProjetoC.AssemblyInfo.cs
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\MeuProjetoC.csproj.CoreCompileInputs.cache
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\MeuProjetoC.dll
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\refint\MeuProjetoC.dll
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\MeuProjetoC.pdb
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\MeuProjetoC.genruntimeconfig.cache
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\ref\MeuProjetoC.dll
+C:\Users\Mirasoft\Desktop\Projeto\MeuProjetoC\obj\Debug\net9.0\MeuProjetoC.sourcelink.json
